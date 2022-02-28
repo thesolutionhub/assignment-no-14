@@ -1,0 +1,43 @@
+.about-text {
+  position: relative;
+  
+  background: #2947a9;
+  box-shadow: 0px 20px 24px -4px rgba(17, 24, 39, 0.1),
+    0px 8px 8px -4px rgba(17, 24, 39, 0.04);
+  border-radius: 2px;
+  margin-top: 40%;
+  z-index: 2;
+}
+.heading {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  padding-top: 15%;
+  padding-left: 8%;
+  color: #ffffff;
+}
+.para-detail {
+  padding-left: 8%;
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  padding-right: 8%;
+  color: #ffffff;
+}
+.btn-des{
+    background-color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 50px;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.about-container{
+    
+}

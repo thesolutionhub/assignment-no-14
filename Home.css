@@ -1,0 +1,33 @@
+.card-section {
+  margin-top: 10vh;
+}
+.card-section-heading {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #292e3d;
+}
+.about-image {
+  width: 902px;
+  height: 669px;
+  position: relative;
+  top: 90px;
+  z-index: 1;
+}
+.card2-section {
+  position: relative;
+  top: 100px;
+}
+.card-section-heading {
+  text-align: center;
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #292e3d;
+}

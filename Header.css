@@ -1,0 +1,29 @@
+.header-image {
+  min-height: 80vh;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.text-box {
+  width: 90%;
+  position: absolute;
+  top: 35%;
+  left: 10%;
+  text-align: left;
+}
+.text-box h1 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 72px;
+
+  color: #292e3d;
+}
+@media (max-width: 700px) {
+  .text-box h1 {
+    font-weight: 600;
+    font-size: 40px;
+    color: #292e3d;
+  }
+}

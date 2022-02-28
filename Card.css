@@ -1,0 +1,28 @@
+.card-pice {
+  margin-top: 40px;
+  border: 1px solid rgb(177, 177, 177);
+  padding: 20px 20px 40px;
+  border: 2px solid #e0e3eb;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.card-pice i {
+  color: orangered;
+  font-size: 40px;
+}
+.card-pice h3 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+}
+.card-pice p {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
